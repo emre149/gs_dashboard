@@ -1,0 +1,4 @@
+.venv
+assets
+.env
+chromedriver
